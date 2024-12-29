@@ -424,3 +424,18 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 17:59:20.929] [Server thread/INFO] [Jade/]: Syncing config to xentros10000 (f735af96-f7b9-3ef9-b573-41b009273240)
 [29Dec2024 18:01:44.607] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=111, y=36, z=-160}
 [29Dec2024 18:01:58.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Learn to Fart]
+[29Dec2024 18:11:03.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[29Dec2024 18:11:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[29Dec2024 18:11:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 18:11:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 18:11:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 18:11:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 18:11:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 18:11:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 18:11:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 18:11:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[29Dec2024 18:11:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 18:11:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 18:11:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 18:11:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[29Dec2024 18:11:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

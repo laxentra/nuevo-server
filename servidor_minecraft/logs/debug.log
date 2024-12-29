@@ -8272,3 +8272,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [29Dec2024 18:01:58.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Learn to Fart]
 [29Dec2024 18:02:45.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 18:02:45.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:07:45.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 18:07:45.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:11:03.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[29Dec2024 18:11:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[29Dec2024 18:11:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Dec2024 18:11:26.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Dec2024 18:11:26.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Dec2024 18:11:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Dec2024 18:11:27.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Dec2024 18:11:27.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Dec2024 18:11:27.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Dec2024 18:11:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[29Dec2024 18:11:28.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 18:11:28.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 18:11:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Dec2024 18:11:28.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Dec2024 18:11:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Dec2024 18:11:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[29Dec2024 18:11:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Dec2024 18:11:28.362] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[29Dec2024 18:11:28.363] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[29Dec2024 18:11:28.386] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[29Dec2024 18:11:28.387] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[29Dec2024 18:11:28.388] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[29Dec2024 18:11:28.388] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[29Dec2024 18:11:28.388] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for tht:dimension
+[29Dec2024 18:11:28.389] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for tht:dimension
+[29Dec2024 18:11:28.397] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
