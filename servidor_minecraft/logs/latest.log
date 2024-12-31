@@ -430,3 +430,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [31Dec2024 20:04:58.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Chain Death]
 [31Dec2024 20:04:58.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Ghost
 [31Dec2024 20:04:58.585] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[31Dec2024 20:07:20.194] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luisana[/100.120.31.87:50050] logged in with entity id 3755 at (259.98434910296254, 100.0, -194.48621952396152)
+[31Dec2024 20:07:20.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana joined the game
+[31Dec2024 20:07:20.271] [Server thread/INFO] [Jade/]: Syncing config to luisana (5b1dbf38-1ab4-3df8-8f3f-9ec783edf1b0)
+[31Dec2024 20:07:26.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana was slain by Skeleton
+[31Dec2024 20:07:26.274] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
+[31Dec2024 20:07:47.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 moved wrongly!
+[31Dec2024 20:08:07.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ajajjaja
+[31Dec2024 20:08:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Monster Hunter]
+[31Dec2024 20:09:38.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> muak
+[31Dec2024 20:09:43.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> un besito
+[31Dec2024 20:10:01.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> comida
+[31Dec2024 20:10:09.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> mis labios
+[31Dec2024 20:10:50.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was blown up by Creeper
+[31Dec2024 20:10:50.737] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[31Dec2024 20:10:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> ajajjajaja
+[31Dec2024 20:12:21.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has completed the challenge [Budding Grapes]
+[31Dec2024 20:12:27.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> donde estas
+[31Dec2024 20:12:41.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has completed the challenge [Budding Grapes]
+[31Dec2024 20:13:30.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> busquemos ovejas
+[31Dec2024 20:13:39.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> sigeme
+[31Dec2024 20:15:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> boluda nada
+[31Dec2024 20:16:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> boluda?
+[31Dec2024 20:16:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> perdon?
+[31Dec2024 20:16:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pss nada
