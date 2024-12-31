@@ -8430,3 +8430,43 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [31Dec2024 20:16:05.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> boluda?
 [31Dec2024 20:16:11.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> perdon?
 [31Dec2024 20:16:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pss nada
+[31Dec2024 20:16:41.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> quieres
+[31Dec2024 20:17:26.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Dec2024 20:17:26.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Dec2024 20:17:26.872] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=127}
+[31Dec2024 20:17:26.873] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=193, y=-59, z=135}
+[31Dec2024 20:17:26.960] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Dec2024 20:17:30.592] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=127}
+[31Dec2024 20:17:30.593] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=199, y=-59, z=128}
+[31Dec2024 20:17:47.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> porque tan lenta
+[31Dec2024 20:17:49.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ?
+[31Dec2024 20:17:57.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 20:17:57.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 20:18:10.867] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luisana lost connection: Disconnected
+[31Dec2024 20:18:10.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana left the game
+[31Dec2024 20:20:42.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[31Dec2024 20:20:42.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[31Dec2024 20:20:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[31Dec2024 20:20:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31Dec2024 20:20:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31Dec2024 20:20:57.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31Dec2024 20:20:57.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31Dec2024 20:20:57.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31Dec2024 20:20:57.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/tht:dimension
+[31Dec2024 20:20:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31Dec2024 20:20:58.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 20:20:58.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 20:20:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31Dec2024 20:20:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31Dec2024 20:20:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimension): All chunks are saved
+[31Dec2024 20:20:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31Dec2024 20:20:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[31Dec2024 20:20:58.061] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[31Dec2024 20:20:58.061] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[31Dec2024 20:20:58.079] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[31Dec2024 20:20:58.079] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[31Dec2024 20:20:58.079] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for tht:dimension
+[31Dec2024 20:20:58.079] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for tht:dimension
+[31Dec2024 20:20:58.081] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[31Dec2024 20:20:58.081] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[31Dec2024 20:20:58.083] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
