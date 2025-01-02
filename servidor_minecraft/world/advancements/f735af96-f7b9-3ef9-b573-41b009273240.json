@@ -573,6 +573,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-01-02 23:30:45 +0000",
       "bread": "2024-12-29 01:02:05 +0000",
       "golden_apple": "2024-12-29 18:30:03 +0000",
       "rotten_flesh": "2025-01-02 22:19:01 +0000",
@@ -1850,11 +1851,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-31 20:10:48 +0000",
+      "minecraft:hoglin": "2025-01-02 23:30:28 +0000",
       "minecraft:spider": "2024-12-31 20:10:49 +0000",
       "minecraft:creeper": "2024-12-31 20:11:23 +0000",
       "minecraft:witch": "2025-01-02 22:57:19 +0000",
       "minecraft:cave_spider": "2025-01-02 21:58:27 +0000",
-      "minecraft:zombie": "2024-12-31 20:08:43 +0000"
+      "minecraft:piglin": "2025-01-02 23:30:04 +0000",
+      "minecraft:zombie": "2024-12-31 20:08:43 +0000",
+      "minecraft:drowned": "2025-01-02 23:24:18 +0000"
     },
     "done": false
   },
@@ -2064,6 +2068,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-01-02 23:29:15 +0000"
+    },
+    "done": false
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-01-02 21:43:38 +0000"
@@ -2073,6 +2083,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 21:15:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-02 23:21:28 +0000"
     },
     "done": true
   },
@@ -2514,6 +2530,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 23:19:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-02 23:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 22:59:45 +0000"
@@ -2529,6 +2557,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-01-02 22:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 23:30:28 +0000"
     },
     "done": true
   },
@@ -2655,6 +2689,12 @@
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-01-02 22:59:45 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/book_of_binding_empty": {
+    "criteria": {
+      "has_writable_book": "2025-01-02 23:27:16 +0000"
     },
     "done": true
   },
@@ -2808,6 +2848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 23:30:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 22:59:45 +0000"
@@ -2856,9 +2902,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-01-02 21:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 23:30:17 +0000"
     },
     "done": true
   },
@@ -2874,6 +2932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-02 23:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-02 21:08:47 +0000"
@@ -2883,6 +2947,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-01-02 21:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-02 23:21:28 +0000"
     },
     "done": true
   },
@@ -2922,6 +2992,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-01-02 23:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-02 22:05:09 +0000"
@@ -2955,6 +3031,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-02 21:18:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-02 23:29:39 +0000"
     },
     "done": true
   },
@@ -3090,6 +3172,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-02 23:29:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-02 23:21:28 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
       "has_dark_oak_planks": "2025-01-02 21:18:33 +0000"
@@ -3111,6 +3205,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-01-02 22:50:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 23:30:28 +0000"
     },
     "done": true
   },
@@ -3234,9 +3334,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 23:30:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-01-02 20:53:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 23:30:28 +0000"
     },
     "done": true
   },
@@ -3528,6 +3640,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-02 23:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-02 21:21:59 +0000"
@@ -3636,6 +3754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-02 23:19:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-02 21:11:14 +0000"
@@ -3657,6 +3781,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-02 22:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:30:12 +0000"
     },
     "done": true
   },

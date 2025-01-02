@@ -8749,3 +8749,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Jan2025 23:20:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> y la tumba??
 [02Jan2025 23:20:50.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> de quienn
 [02Jan2025 23:21:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pss de quien mataste
+[02Jan2025 23:21:31.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:21:31.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 23:22:30.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> no hay
+[02Jan2025 23:22:45.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ten mira
+[02Jan2025 23:23:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> te lo mereces
+[02Jan2025 23:23:31.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> no
+[02Jan2025 23:23:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> mataste mi amor : (
+[02Jan2025 23:23:56.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ten mas bien has un portal al nether
+[02Jan2025 23:24:02.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> ahhh eso me habias dicho a mi
+[02Jan2025 23:24:10.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana was slain by Drowned
+[02Jan2025 23:24:10.624] [Server thread/DEBUG] [tombstone/]: A new grave of the player luisana was created at position [x:2424, y:63, z:-407, dim:minecraft:overworld]
+[02Jan2025 23:24:10.632] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
+[02Jan2025 23:24:27.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> a osea si la mataste por celos
+[02Jan2025 23:24:56.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> para que hagas el portal
+[02Jan2025 23:25:06.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has made the advancement [Ice Bucket Challenge]
+[02Jan2025 23:25:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> hacelo vos
+[02Jan2025 23:25:26.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> no porque no se como quieres hacer la casa
+[02Jan2025 23:26:31.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:26:31.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 23:28:36.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> vamos al nether, amor
+[02Jan2025 23:28:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> anda solo
+[02Jan2025 23:29:12.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [We Need to Go Deeper]
+[02Jan2025 23:29:15.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
+[02Jan2025 23:29:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Nightmare Fuel]
+[02Jan2025 23:30:28.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jan2025 23:30:52.534] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[02Jan2025 23:31:36.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 23:31:36.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
