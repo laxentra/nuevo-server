@@ -448,3 +448,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Jan2025 20:36:01.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
 [02Jan2025 20:36:01.453] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [02Jan2025 20:36:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 1153.500000, 94.500000, -706.500000]
+[02Jan2025 20:45:32.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Sweet Dreams]
+[02Jan2025 20:54:02.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was mauled by Cryomancer's polar bear
+[02Jan2025 20:54:02.737] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 20:54:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was frozen solid by Cryomancer's
+[02Jan2025 20:54:39.281] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 20:55:12.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was frozen solid by Cryomancer's
+[02Jan2025 20:55:12.536] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 20:56:16.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luisana[/100.120.31.87:50454] logged in with entity id 20395 at (273.04732157328306, 93.0, -648.6999999880791)
+[02Jan2025 20:56:16.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana joined the game
+[02Jan2025 20:56:16.150] [Server thread/INFO] [Jade/]: Syncing config to luisana (5b1dbf38-1ab4-3df8-8f3f-9ec783edf1b0)
+[02Jan2025 20:56:36.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> te hago tp?
+[02Jan2025 20:57:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> si
+[02Jan2025 20:57:34.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported luisana to xentros10000]
+[02Jan2025 20:57:49.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> nuestra casa
+[02Jan2025 20:57:59.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has made the advancement [Sweet Dreams]
+[02Jan2025 20:58:00.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> se la robe a un mago
+[02Jan2025 20:58:25.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> XD
+[02Jan2025 20:59:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> vamonos
+[02Jan2025 20:59:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> porqu?
+[02Jan2025 21:00:11.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana was crushed by Cryomancer's giant block of ice
+[02Jan2025 21:00:11.835] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
+[02Jan2025 21:00:19.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has reached the goal [Here They Come]
+[02Jan2025 21:00:20.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> XD

@@ -962,6 +962,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-31 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2024-12-31 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-31 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-31 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-31 20:09:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-31 20:10:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-31 20:10:22 +0000"
+    },
+    "done": true
+  },
   "vinery:main/budding_grapes": {
     "criteria": {
       "vinery:jungle_grapes_red": "2024-12-31 20:10:31 +0000",
@@ -969,11 +1011,12 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
+  "vinery:main/vineyard_visionary": {
     "criteria": {
-      "has_raw_iron": "2024-12-31 20:09:29 +0000"
+      "vinery:jungle_grapes_red": "2024-12-31 20:10:31 +0000",
+      "vinery:jungle_grapes_white": "2024-12-31 20:12:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -987,21 +1030,9 @@
     },
     "done": true
   },
-  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
-    "criteria": {
-      "has_raw_iron": "2024-12-31 20:09:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-31 20:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-31 20:09:29 +0000"
     },
     "done": true
   },
@@ -1010,19 +1041,6 @@
       "in_water": "2024-12-31 20:15:33 +0000"
     },
     "done": true
-  },
-  "farmersdelight:recipes/cooking/dog_food": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-31 20:10:22 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/vineyard_visionary": {
-    "criteria": {
-      "vinery:jungle_grapes_red": "2024-12-31 20:10:31 +0000",
-      "vinery:jungle_grapes_white": "2024-12-31 20:12:41 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -1042,27 +1060,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-31 20:09:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2024-12-31 20:15:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-31 20:09:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2024-12-31 20:10:22 +0000"
     },
     "done": true
   },
