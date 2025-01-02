@@ -674,3 +674,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Jan2025 22:58:32.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> para molestarte
 [02Jan2025 22:58:42.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> no
 [02Jan2025 23:01:05.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Second Age]
+[02Jan2025 23:02:16.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> guarda eso
+[02Jan2025 23:02:45.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> come
+[02Jan2025 23:02:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> qu tw me vas a morir
+[02Jan2025 23:04:11.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> dormi
+[02Jan2025 23:04:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pon antorchas
+[02Jan2025 23:09:59.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 1610.500000, 121.500000, -717.500000]
+[02Jan2025 23:14:05.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> quw haces
+[02Jan2025 23:14:14.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pico obsidiana
+[02Jan2025 23:15:50.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Danijela'/65294, l='ServerLevel[world]', x=2408.91, y=75.02, z=-419.72] died, message: 'Danijela (Staying) was slain by luisana'
+[02Jan2025 23:15:50.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has made the advancement [Neighborhood Brawl]
+[02Jan2025 23:15:50.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Danijela'/65294, l='ServerLevel[world]', x=2408.91, y=75.02, z=-419.72] died: Danijela (Staying) was slain by luisana
+[02Jan2025 23:15:51.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luisana moved wrongly!
+[02Jan2025 23:16:06.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> la mate
+[02Jan2025 23:18:14.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> porque : (
+[02Jan2025 23:18:27.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ya me queria ella
+[02Jan2025 23:18:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> no como tu
+[02Jan2025 23:19:47.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 2427.500000, 88.500000, -417.500000]
+[02Jan2025 23:19:47.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> aja
+[02Jan2025 23:20:31.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> y la tumba??
+[02Jan2025 23:20:50.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> de quienn
+[02Jan2025 23:21:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> pss de quien mataste
