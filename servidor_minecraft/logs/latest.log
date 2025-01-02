@@ -436,3 +436,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Jan2025 20:27:19.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of xentros10000) moved wrongly! 0.33269007151170626
 [02Jan2025 20:27:19.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of xentros10000) moved wrongly! 0.7485076610394685
 [02Jan2025 20:27:19.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of xentros10000) moved wrongly! 1.1643252595536637
+[02Jan2025 20:30:17.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=688, y=68, z=-687} BlockPos{x=686, y=68, z=-687}
+[02Jan2025 20:31:04.258] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
+[02Jan2025 20:31:05.444] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
+[02Jan2025 20:33:06.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 hit the ground too hard
+[02Jan2025 20:33:06.921] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 20:33:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 961.500000, 80.500000, -597.500000]
+[02Jan2025 20:35:19.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was incinerated by Fire Dragon
+[02Jan2025 20:35:19.487] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 20:35:33.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 1179.500000, 93.500000, -621.500000]
+[02Jan2025 20:36:01.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 burned to death
+[02Jan2025 20:36:01.453] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 20:36:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 1153.500000, 94.500000, -706.500000]
