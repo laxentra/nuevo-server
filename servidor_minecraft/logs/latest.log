@@ -714,3 +714,56 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [02Jan2025 23:29:12.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [We Need to Go Deeper]
 [02Jan2025 23:29:15.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4997ms or 99 ticks behind
 [02Jan2025 23:29:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Nightmare Fuel]
+[02Jan2025 23:32:14.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Hot Stuff]
+[02Jan2025 23:33:00.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:34:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 303.500000, 36.500000, -53.500000]
+[02Jan2025 23:35:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Piglin
+[02Jan2025 23:35:00.743] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 23:35:12.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 2413.500000, 83.500000, -409.500000]
+[02Jan2025 23:36:50.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.729] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:50.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:51.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:36:51.130] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:41:03.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Hidden in the Depths]
+[02Jan2025 23:41:36.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [The Path to Better Gear]
+[02Jan2025 23:45:22.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana was slain by Skeleton
+[02Jan2025 23:45:22.538] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
+[02Jan2025 23:46:46.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> bueno
+[02Jan2025 23:47:12.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> ya me voy
+[02Jan2025 23:47:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> cielo te voy a peidir que me hagas dos salas pero ya una pequeña y otra grande
+[02Jan2025 23:47:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> nioo
+[02Jan2025 23:47:26.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> porque
+[02Jan2025 23:47:29.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ?
+[02Jan2025 23:47:50.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 303.500000, 36.500000, -53.500000]
+[02Jan2025 23:49:54.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> no me gusta aca
+[02Jan2025 23:50:02.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> porque hay agua?
+[02Jan2025 23:50:13.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> a pense que ya te ibas de jugar
+[02Jan2025 23:50:32.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> estaba haciendo algo pero no salio
+[02Jan2025 23:50:39.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> si eso decia
+[02Jan2025 23:52:00.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> a osea te vas de jugar?
+[02Jan2025 23:53:17.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> primero quiero buscar otro lado para la casa
+[02Jan2025 23:53:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> bueno busca
+[02Jan2025 23:55:25.339] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Jan2025 23:55:44.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana has made the advancement [Fruits of the Field]
+[02Jan2025 23:55:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana was slain by Sea Serpent
+[02Jan2025 23:55:53.757] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
+[02Jan2025 23:56:12.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported luisana to xentros10000]
+[02Jan2025 23:56:14.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> que mod de mierda -_-
+[02Jan2025 23:56:25.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> donde esta la serpiente?
+[02Jan2025 23:56:43.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> barco
+[02Jan2025 23:57:32.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> llevam
+[02Jan2025 23:58:27.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> habian sirenas?
+[02Jan2025 23:58:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Fruits of the Field]
+[02Jan2025 23:59:17.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Sea Serpent
+[02Jan2025 23:59:17.383] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[02Jan2025 23:59:24.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luisana was slain by Sea Serpent
+[02Jan2025 23:59:24.290] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
+[02Jan2025 23:59:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 2968.500000, 66.500000, -353.500000]
+[02Jan2025 23:59:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported luisana to xentros10000]

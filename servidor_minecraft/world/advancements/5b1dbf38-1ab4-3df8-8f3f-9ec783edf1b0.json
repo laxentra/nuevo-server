@@ -298,9 +298,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-02 23:54:39 +0000",
       "minecraft:eroded_badlands": "2024-12-29 18:55:54 +0000",
       "minecraft:wooded_badlands": "2024-12-29 18:35:00 +0000",
       "minecraft:badlands": "2024-12-29 18:31:08 +0000",
+      "minecraft:beach": "2025-01-02 23:58:34 +0000",
       "minecraft:dark_forest": "2025-01-02 21:11:01 +0000",
       "minecraft:sparse_jungle": "2025-01-02 21:04:43 +0000",
       "minecraft:lukewarm_ocean": "2025-01-02 21:09:23 +0000",
@@ -308,7 +310,9 @@
       "minecraft:stony_shore": "2024-12-29 18:33:57 +0000",
       "minecraft:lush_caves": "2025-01-02 21:42:29 +0000",
       "minecraft:desert": "2024-12-29 18:33:37 +0000",
-      "minecraft:jungle": "2025-01-02 21:01:34 +0000"
+      "minecraft:jungle": "2025-01-02 21:01:34 +0000",
+      "minecraft:ocean": "2025-01-02 23:54:17 +0000",
+      "minecraft:plains": "2025-01-02 23:55:44 +0000"
     },
     "done": false
   },
@@ -1425,6 +1429,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-01-02 21:30:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-01-02 23:55:44 +0000"
     },
     "done": true
   },
