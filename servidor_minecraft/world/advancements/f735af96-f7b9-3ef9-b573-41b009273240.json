@@ -585,6 +585,7 @@
       "bread": "2024-12-29 01:02:05 +0000",
       "golden_apple": "2024-12-29 18:30:03 +0000",
       "rotten_flesh": "2025-01-02 22:19:01 +0000",
+      "glow_berries": "2025-01-07 19:58:07 +0000",
       "melon_slice": "2025-01-02 21:03:33 +0000",
       "mushroom_stew": "2025-01-02 21:39:25 +0000"
     },
@@ -3928,7 +3929,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-01-02 23:29:15 +0000",
-      "minecraft:nether_wastes": "2025-01-02 23:31:59 +0000"
+      "minecraft:nether_wastes": "2025-01-02 23:31:59 +0000",
+      "minecraft:warped_forest": "2025-01-07 20:00:23 +0000"
     },
     "done": false
   },
@@ -4124,6 +4126,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/golden_sacrificial_bowl": {
+    "criteria": {
+      "has_sacrificial_bowl": "2025-01-07 20:12:33 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/copper_dust_from_raw": {
     "criteria": {
       "has_raw_copper": "2025-01-07 18:42:19 +0000"
@@ -4175,6 +4183,18 @@
   "chococraft:recipes/misc/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 20:00:52 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_campfire": {
+    "criteria": {
+      "has_datura": "2025-01-07 19:55:19 +0000"
     },
     "done": true
   },
@@ -4250,6 +4270,18 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/otherstone_frame": {
+    "criteria": {
+      "has_otherstone": "2025-01-07 20:11:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/food/crafting/demons_dream_essence_from_fruit": {
+    "criteria": {
+      "has_datura": "2025-01-07 19:55:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
@@ -4265,6 +4297,12 @@
   "chococraft:recipes/misc/chocobo_saddle_alt": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_foliot": {
+    "criteria": {
+      "has_taboo_book": "2025-01-07 20:13:15 +0000"
     },
     "done": true
   },
@@ -4358,6 +4396,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_marid": {
+    "criteria": {
+      "has_taboo_book": "2025-01-07 20:13:15 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
@@ -4367,6 +4411,18 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-07 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-07 20:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-07 20:10:40 +0000"
     },
     "done": true
   },
@@ -4385,6 +4441,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-07 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/decorations/crafting/spirit_torch": {
+    "criteria": {
+      "has_datura": "2025-01-07 19:55:19 +0000"
     },
     "done": true
   },
@@ -4445,6 +4507,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_afrit": {
+    "criteria": {
+      "has_taboo_book": "2025-01-07 20:13:15 +0000"
     },
     "done": true
   },
@@ -4574,6 +4642,12 @@
     },
     "done": true
   },
+  "occultism:recipes/building_blocks/crafting/otherstone_pedestal": {
+    "criteria": {
+      "has_otherstone": "2025-01-07 20:11:56 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_trade/spirit_trade/test": {
     "criteria": {
       "has_stone": "2025-01-07 19:40:00 +0000"
@@ -4610,6 +4684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-01-07 20:01:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-07 19:27:15 +0000"
@@ -4619,6 +4699,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/otherstone_slab": {
+    "criteria": {
+      "has_otherstone": "2025-01-07 20:11:56 +0000"
     },
     "done": true
   },
@@ -4652,9 +4738,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-07 20:00:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-07 19:05:49 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/book_of_binding_djinni": {
+    "criteria": {
+      "has_taboo_book": "2025-01-07 20:13:15 +0000"
     },
     "done": true
   },
@@ -4670,9 +4768,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/book_of_binding_empty": {
+    "criteria": {
+      "has_taboo_book": "2025-01-07 20:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-07 20:00:37 +0000"
     },
     "done": true
   },
@@ -4712,6 +4822,18 @@
     },
     "done": true
   },
+  "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
+    "criteria": {
+      "has_otherstone": "2025-01-07 20:11:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/smelting/burnt_otherstone": {
+    "criteria": {
+      "has_otherstone": "2025-01-07 20:11:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-01-07 19:27:15 +0000"
@@ -4721,6 +4843,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-07 18:42:19 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/datura": {
+    "criteria": {
+      "has_datura": "2025-01-07 19:55:19 +0000"
     },
     "done": true
   },
