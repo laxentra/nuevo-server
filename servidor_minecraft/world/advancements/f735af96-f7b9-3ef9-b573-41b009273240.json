@@ -4162,6 +4162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 20:54:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-01-07 19:27:15 +0000"
@@ -4180,6 +4186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-07 20:54:14 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
@@ -4192,9 +4204,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-07 20:44:03 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/spirit_campfire": {
     "criteria": {
       "has_datura": "2025-01-07 19:55:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 20:45:29 +0000"
     },
     "done": true
   },
@@ -4270,9 +4294,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 20:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 20:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 20:54:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/otherstone_frame": {
     "criteria": {
       "has_otherstone": "2025-01-07 20:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-07 20:44:03 +0000"
     },
     "done": true
   },
@@ -4285,6 +4333,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 20:54:40 +0000"
     },
     "done": true
   },
@@ -4342,6 +4396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 20:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
@@ -4354,9 +4414,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-01-07 20:54:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-01-07 19:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-07 20:45:29 +0000"
     },
     "done": true
   },
@@ -4393,6 +4465,12 @@
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-01-07 18:58:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2025-01-07 20:54:40 +0000"
     },
     "done": true
   },
@@ -4447,6 +4525,12 @@
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-07 18:33:28 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/tools/crafting/divination_rod": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-07 20:47:35 +0000"
     },
     "done": true
   },
@@ -4552,6 +4636,18 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/spirit_attuned_pickaxe_head": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-07 20:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-07 20:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
@@ -4567,6 +4663,18 @@
   "chococraft:recipes/misc/choco_disguise_chestplate": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/purified_ink": {
+    "criteria": {
+      "has_black_dye": "2025-01-07 20:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 20:54:40 +0000"
     },
     "done": true
   },
@@ -4600,9 +4708,21 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/lenses": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-07 20:47:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/spirit_attuned_crystal": {
+    "criteria": {
+      "has_spirit_attuned_gem": "2025-01-07 20:47:35 +0000"
     },
     "done": true
   },
@@ -4672,6 +4792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 20:54:40 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_helmet": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
@@ -4723,6 +4849,18 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-07 19:40:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-07 20:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 20:54:40 +0000"
     },
     "done": true
   },
@@ -4780,6 +4918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2025-01-07 20:54:40 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/misc/crafting/book_of_binding_empty": {
     "criteria": {
       "has_taboo_book": "2025-01-07 20:13:15 +0000"
@@ -4816,6 +4960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-01-07 20:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-07 18:43:17 +0000"
@@ -4828,6 +4978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-07 20:45:29 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/chocobo_saddle_bags": {
     "criteria": {
       "has_chocobo_feather": "2025-01-07 18:24:46 +0000"
@@ -4837,6 +4993,12 @@
   "occultism:recipes/building_blocks/crafting/sacrificial_bowl": {
     "criteria": {
       "has_otherstone": "2025-01-07 20:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-07 20:45:29 +0000"
     },
     "done": true
   },
