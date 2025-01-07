@@ -511,3 +511,37 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [07Jan2025 19:06:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> y te doy mas
 [07Jan2025 19:06:13.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> y ya vuelvo
 [07Jan2025 19:06:20.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> ok
+[07Jan2025 19:20:06.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of luisana) moved wrongly! 0.7520659309984694
+[07Jan2025 19:24:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> volvi
+[07Jan2025 19:25:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to luisana]
+[07Jan2025 19:25:16.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> que haces?
+[07Jan2025 19:26:20.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> que hacias hay?
+[07Jan2025 19:27:06.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> que hacemos?
+[07Jan2025 19:27:46.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Strong or Careful]
+[07Jan2025 19:27:46.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was blown up by Creeper
+[07Jan2025 19:27:46.711] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[07Jan2025 19:28:05.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to luisana]
+[07Jan2025 19:29:36.283] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/30802, l='ServerLevel[world]', x=2912.50, y=55.00, z=-461.50]
+[07Jan2025 19:32:06.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> no
+[07Jan2025 19:32:26.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> busquemos otra zona pa la casa
+[07Jan2025 19:32:29.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> sigeme
+[07Jan2025 19:33:05.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> jaja
+[07Jan2025 19:33:11.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> tu no tienes chocobo
+[07Jan2025 19:33:17.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> tarado
+[07Jan2025 19:33:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> lo hacemos aca?
+[07Jan2025 19:34:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set the weather to clear]
+[07Jan2025 19:34:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> si o no?
+[07Jan2025 19:35:03.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> si
+[07Jan2025 19:35:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> oki entonces te dejo mi chocobo voy a la otra casa
+[07Jan2025 19:35:47.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ten dale comida para que no muera
+[07Jan2025 19:36:13.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> que la alimentes
+[07Jan2025 19:36:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> no es problema mio
+[07Jan2025 19:37:01.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> che hay un dragon al lado
+[07Jan2025 19:37:16.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> mentira
+[07Jan2025 19:41:20.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was turned to ice by Ice Dragon
+[07Jan2025 19:41:20.685] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[07Jan2025 19:41:40.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to 2715.500000, 108.500000, -525.500000]
+[07Jan2025 19:42:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set own game mode to Creative Mode]
+[07Jan2025 19:42:36.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Set own game mode to Survival Mode]
+[07Jan2025 19:47:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> voy a matar al dragon
+[07Jan2025 19:47:20.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> dame un momento
