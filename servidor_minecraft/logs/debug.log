@@ -8794,3 +8794,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [07Jan2025 20:20:49.955] [Server thread/INFO] [tombstone/]: The player luisana has successfully been saved
 [07Jan2025 20:22:29.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <luisana> despues vemos
 [07Jan2025 20:22:46.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> ya vuelvo voy al baño
+[07Jan2025 20:25:40.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 20:25:40.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jan2025 20:30:40.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jan2025 20:30:40.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
